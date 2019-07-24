@@ -63,6 +63,10 @@ hr{
   text-decoration: none;
 }
 
+.middle-container {
+   margin-top: 100px 0;
+}
+
 .bottom-container{
   margin-top: 60px;
   background-color: #66BFBF;
